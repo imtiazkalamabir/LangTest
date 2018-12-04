@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LangTestTwo</string>
+
+    <string name="english">English</string>
+    <string name="russian">русский</string>
+    <string name="spanish">Español</string>
+    <string name="portuguese">Português</string>
+    <string name="italian">italiano</string>
+    <string name="french">français</string>
+    <string name="malaysian">Malay</string>
+    <string name="german">Deutsche</string>
+    <string name="arabic">عربى</string>
+    <string name="dutch">Nederlands</string>
+    <string name="action_settings">impostazioni</string>
+    <string name="choose_a_language">Scegli una lingua</string>
+    <string name="apply">APPLICARE</string>
+    <string name="hello_world">Ciao mondo!</string>
+</resources>
